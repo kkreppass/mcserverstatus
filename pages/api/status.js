@@ -1,7 +1,7 @@
 import { status } from 'minecraft-server-util';
 
 export default async function handler(req, res) {
-  const serverIP = 'your.minecraft.server.ip';  // 서버 주소로 바꿔줘
+  const serverIP = 'talkiyo.feathermc.gg';  // 서버 주소로 바꿔줘
   const serverPort = 25565;                     // 필요하면 포트도
 
   try {
